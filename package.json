@@ -1,7 +1,7 @@
 {
   "name": "glsl-defines",
   "description": "Takes an object or array of variable names/values and gives you back a list of `#define` statements you can drop into GLSL.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {},
