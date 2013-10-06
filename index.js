@@ -1,3 +1,5 @@
+module.exports = defines
+
 function defines(data) {
   if (Array.isArray(data)) {
     data = data.reduce(function(defs, key) {
