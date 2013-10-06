@@ -1,0 +1,24 @@
+{
+  "name": "glsl-defines",
+  "description": "Takes an object or array of variable names/values and gives you back a list of `#define` statements you can drop into GLSL.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/glsl-defines"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/glsl-defines/issues"
+  },
+  "keywords": [
+    "glsl",
+    "define",
+    "format"
+  ]
+}
